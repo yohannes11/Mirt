@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Mirt Mirt</string>
+    <string name="company_name">Companies</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="companies_list">
+        <item>Constructions</item>
+        <item>Malls</item>
+        <item>Banks</item>
+        <item>Technologies</item>
+        <item>Factories</item>
+        <item>Agents</item>
+        <item>Markets</item>
+        <item>Importers</item>
+        <item>Bar &amp; Resturants</item>
+        <item>Furnitures</item>
+    </string-array>
+    <string-array name="Peoples_list">
+        <item>Architechts</item>
+        <item>Dealers</item>
+        <item>Free Lancers</item>
+        <item>DJS</item>
+        <item>Singers</item>
+        <item>Dancers</item>
+        <item>Painters</item>
+        <item>Taxi</item>
+        <item>Chiefs</item>
+        <item>Psychologists</item>
+    </string-array>
+    <string-array name="companies">
+        <item>ABC CON</item>
+        <item>Hope CON</item>
+        <item>LIFE CON</item>
+    </string-array>
+    <string-array name="peoples">
+        <item>Assefa</item>
+        <item>Bekele</item>
+        <item>Chernet</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="company_fragment">Companies</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
