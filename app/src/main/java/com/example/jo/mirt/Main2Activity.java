@@ -39,7 +39,7 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-       // new Main2Activity.HttpAsyncTask().execute("http://hmkcode.appspot.com/rest/controller/get.json");
+       //new Main2Activity.HttpAsyncTask().execute("http://hmkcode.appspot.com/rest/controller/get.json");
        // DBHelper dataHelper=new DBHelper(this);
         // dataHelper.insert_profile(10,"Tekle Birhane",101,"Low priced service","the best ever ...");
         mViewPager = findViewById(R.id.container2);

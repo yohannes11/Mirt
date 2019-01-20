@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        new MainActivity.HttpAsyncTask().execute("http://hacksethiopia.com/mirtapp/get.php");
+        new MainActivity.HttpAsyncTask().execute("http://ethiojokes.com/mirtapp/get.php");
         mViewPager = findViewById(R.id.container1);
         setupViewPager(mViewPager);
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
